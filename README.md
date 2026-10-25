@@ -1,24 +1,16 @@
 ### Hi, I'm Jens 👋
 
-I build software with AI, every day, and I want to find out how far that goes.
+I write software in Germany and I like to see how far a good idea can go when it gets built properly.
 
-Not demos. Not "look, it wrote a todo app". Real software that real people install on hardware they love, with the quality you would expect from a seasoned team. Signed releases, tests, security reviews, 13 languages, and a changelog that people actually read.
-
-My proving ground: on 6 May 2026 Bose switched off the SoundTouch cloud, and millions of perfectly good speakers forgot how to play the radio overnight. So I built **[SoundTouch Reborn](https://github.com/JRpersonal/streborn)** and brought them back, without the Bose cloud and without an account.
+On 6 May 2026 Bose switched off the SoundTouch cloud, and millions of perfectly good speakers forgot how to play the radio overnight. I took that a little personally. So I built **[SoundTouch Reborn](https://github.com/JRpersonal/streborn)** and brought them back, without the Bose cloud and without an account.
 
 [![Website](https://img.shields.io/badge/st--reborn.de-download-1f6feb?style=for-the-badge)](https://st-reborn.de)
 [![Stars](https://img.shields.io/github/stars/JRpersonal/streborn?style=for-the-badge&logo=github&label=stars)](https://github.com/JRpersonal/streborn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-say_hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-roggenfelder-3b0b93181/)
 
-#### 🤖 AI writes the code. I'm still the one who gets called when it breaks.
+#### 🧪 How I work
 
-The deal is simple. AI types faster than I ever will. I decide what gets built, I set the bar, and I read the hardware when the docs ran out years ago. Then I hold the result to the same standard as code written by people:
-
-- **Tested like I mean it:** 1,400+ unit tests, and a browser suite that clicks through the desktop app on every change.
-- **Shipped like a product:** signed for Windows, notarized for macOS, checksums and Sigstore attestations on every download.
-- **Watched in the wild:** six speakers on my desk as a test lab, and a community that reports bugs faster than I can make coffee.
-
-Every day I try something that did not work yesterday. Most days it works now.
+Six speakers on my desk as a test lab, a lot of reverse engineering, and AI as a pair programmer that never needs coffee. The bar stays where a good team would put it: 1,400+ tests, signed and notarized releases, 13 languages, and a community that finds bugs faster than I can make coffee.
 
 #### 🔧 Things I brought back to life
 
@@ -30,6 +22,6 @@ Every day I try something that did not work yesterday. Most days it works now.
 
 #### 🔭 Right now
 
-A new desktop layout for SoundTouch Reborn, designed together with the people who use it. Curious what AI-built software can look like? [Have a look](https://github.com/JRpersonal/streborn), or [vote on what comes next](https://github.com/JRpersonal/streborn/discussions/categories/ideas).
+A new desktop layout for SoundTouch Reborn, designed together with the people who use it. [Have a look](https://github.com/JRpersonal/streborn) or [vote on what comes next](https://github.com/JRpersonal/streborn/discussions/categories/ideas).
 
-<sub>Fun fact: the best debugging tool in this whole project is still a human who sends the log file.</sub>
+<sub>Fun fact: the best debugging tool in this whole project is a user who sends the log file.</sub>
