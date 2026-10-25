@@ -8,7 +8,7 @@ My proving ground: on 6 May 2026 Bose switched off the SoundTouch cloud, and mil
 
 [![Website](https://img.shields.io/badge/st--reborn.de-download-1f6feb?style=for-the-badge)](https://st-reborn.de)
 [![Stars](https://img.shields.io/github/stars/JRpersonal/streborn?style=for-the-badge&logo=github&label=stars)](https://github.com/JRpersonal/streborn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-say_hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-roggenfelder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-say_hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-roggenfelder-3b0b93181/)
 
 #### 🤖 AI writes the code. I'm still the one who gets called when it breaks.
 
