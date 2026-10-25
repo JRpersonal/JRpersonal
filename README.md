@@ -10,7 +10,7 @@ On 6 May 2026 Bose switched off the SoundTouch cloud, and millions of perfectly 
 
 #### 🧪 How I work
 
-Six speakers on my desk as a test lab, a lot of reverse engineering, and AI as a pair programmer that never needs coffee. The bar stays where a good team would put it: 1,400+ tests, signed and notarized releases, 13 languages, and a community that finds bugs faster than I can make coffee.
+Six speakers on my desk as a test lab, a lot of reverse engineering, and AI as a pair programmer that never takes a lunch break. The bar stays where a good team would put it: 1,400+ tests, signed and notarized releases, 13 languages, and a community that finds bugs faster than I can make coffee.
 
 #### 🔧 Things I brought back to life
 
