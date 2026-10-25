@@ -17,7 +17,7 @@ Six speakers on my desk as a test lab, a lot of reverse engineering, and AI as a
 | | |
 |---|---|
 | **[streborn](https://github.com/JRpersonal/streborn)** | Bose SoundTouch without the Bose cloud. A small Go agent on the speaker, a desktop app for Windows, macOS and Linux, a phone remote. |
-| **[streborn-doom](https://github.com/JRpersonal/streborn-doom)** | DOOM on a SoundTouch: its tiny display, its IR remote, its speaker. If it has a screen, it runs DOOM. Those are the rules. |
+| **[streborn-doom](https://github.com/JRpersonal/streborn-doom)** | Purely for science 😉 The original DOOM on a SoundTouch: its tiny display, its IR remote, its speaker. If it has a screen, it has to run DOOM. Those are the rules. [#ItRunsDoom](https://github.com/topics/itrunsdoom) |
 | **[spacemonger](https://github.com/JRpersonal/spacemonger)** | The classic 90s disk space treemap, now on x64 and ARM64. I may have a thing for old stuff that deserves a second life. |
 
 #### 🔭 Right now
